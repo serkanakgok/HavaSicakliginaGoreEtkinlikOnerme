@@ -15,7 +15,7 @@ public class HavaSicakliginaGoreEtkinlikOnerme {
 
         System.out.println();
         if (space){
-            System.out.println("Uzaya mı çıktınız :-");
+            System.out.println("Uzaya mı çıktınız :-O");
         }else if (ski){
             System.out.println("Kayak yapmaya gidebilirsiniz.");
         }else if (cin){
